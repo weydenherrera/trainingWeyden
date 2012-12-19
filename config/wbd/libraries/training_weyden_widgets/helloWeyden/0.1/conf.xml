@@ -1,0 +1,6 @@
+<widget>
+  <widgetClass>tooltwist.training_weyden.widgets.HelloWeydenWidget</widgetClass>
+  <idWithinRootWidget>0</idWithinRootWidget>
+  <label>helloWeyden</label>
+  <description>trainning</description>
+</widget>
